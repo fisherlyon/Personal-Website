@@ -28,3 +28,53 @@ h1 {
     font-size: 45px;
     margin-top: -50px;
 }
+
+/* trio links peer mentor */
+.trio-mentor h2 {
+    padding-top: 10px;
+    font-size: 45px;
+}
+
+.trio-mentor h3 {
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+.trio-mentor .description {
+    font-size: 25px;
+    margin-top: -25px;
+    padding-left: 30px;
+}
+
+/* swim instructor */
+.swim-instruct h2 {
+    padding-top: 10px;
+    font-size: 45px;
+}
+
+.swim-instruct h3 {
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+/* swim coach */
+.swim-coach h2 {
+    padding-top: 10px;
+    font-size: 45px;
+}
+
+.swim-coach h3 {
+    font-size: 30px;
+    margin-top: -25px;
+}
+
+/* lifeguard  */
+.lifeguard h2 {
+    padding-top: 10px;
+    font-size: 45px;
+}
+
+.lifeguard h3 {
+    font-size: 30px;
+    margin-top: -25px;
+}
