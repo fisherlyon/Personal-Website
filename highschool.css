@@ -1,1 +1,30 @@
 /* highschool.css */
+
+body {
+    background-color: #1f1f1f;
+    color: #808080;
+    font-family: DejaVu Sans Mono, monospace;
+    padding-left: 20px;
+}
+
+p {
+    padding-right: 30px;
+    text-align: right;
+}
+
+p a {
+    font-size: 30px;
+    color: inherit;
+    transition: .5s;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px #ffffff;
+}
+
+h1 {
+    font-size: 45px;
+    margin-top: -50px;
+}

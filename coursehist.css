@@ -7,19 +7,19 @@ body {
     padding-left: 20px;
 }
 
-h4 {
+p {
     padding-right: 30px;
     text-align: right;
 }
 
-h4 a {
+p a {
     font-size: 30px;
     color: inherit;
     transition: .5s;
     text-decoration: none;
 }
 
-h4 a:hover {
+p a:hover {
     color: #ffffff;
     text-shadow: 0 0 5px #ffffff;
 }
@@ -29,50 +29,49 @@ h1 {
     margin-top: -50px;
 }
 
-/* first year */
-
-.first-year .fall-2021 h2 {
+/* third year */
+.third-year .fall-2023 h2 {
+    padding-top: 10px;
     font-size: 45px;
 }
 
-.first-year .fall-2021 h3 {
+.third-year .fall-2023 h3 {
     font-size: 35px;
     margin-top: -25px;
     padding-left: 20px;
 }
 
-.first-year .fall-2021 .courses {
+.third-year .fall-2023 .courses {
     font-size: 25px;
     margin-top: -25px;
     padding-left: 50px;
 }
 
-.first-year .winter-2022 h3 {
+.third-year .winter-2024 h3 {
     font-size: 35px;
     margin-top: -5px;
     padding-left: 20px;
 }
 
-.first-year .winter-2022 .courses {
+.third-year .winter-2024 .courses {
     font-size: 25px;
     margin-top: -25px;
     padding-left: 50px;
 }
 
-.first-year .spring-2022 h3 {
+.third-year .spring-2024 h3 {
     font-size: 35px;
     margin-top: -5px;
     padding-left: 20px;
 }
 
-.first-year .spring-2022 .courses {
+.third-year .spring-2024 .courses {
     font-size: 25px;
     margin-top: -25px;
     padding-left: 50px;
 }
 
 /* second year */
-
 .second-year .fall-2022 h2 {
     padding-top: 10px;
     font-size: 45px;
@@ -114,44 +113,42 @@ h1 {
     padding-left: 50px;
 }
 
-/* third year */
-
-.third-year .fall-2023 h2 {
-    padding-top: 10px;
+/* first year */
+.first-year .fall-2021 h2 {
     font-size: 45px;
 }
 
-.third-year .fall-2023 h3 {
+.first-year .fall-2021 h3 {
     font-size: 35px;
     margin-top: -25px;
     padding-left: 20px;
 }
 
-.third-year .fall-2023 .courses {
+.first-year .fall-2021 .courses {
     font-size: 25px;
     margin-top: -25px;
     padding-left: 50px;
 }
 
-.third-year .winter-2024 h3 {
+.first-year .winter-2022 h3 {
     font-size: 35px;
     margin-top: -5px;
     padding-left: 20px;
 }
 
-.third-year .winter-2024 .courses {
+.first-year .winter-2022 .courses {
     font-size: 25px;
     margin-top: -25px;
     padding-left: 50px;
 }
 
-.third-year .spring-2024 h3 {
+.first-year .spring-2022 h3 {
     font-size: 35px;
     margin-top: -5px;
     padding-left: 20px;
 }
 
-.third-year .spring-2024 .courses {
+.first-year .spring-2022 .courses {
     font-size: 25px;
     margin-top: -25px;
     padding-left: 50px;
