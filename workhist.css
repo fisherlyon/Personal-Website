@@ -57,6 +57,12 @@ h1 {
     margin-top: -25px;
 }
 
+.swim-instruct .description {
+    font-size: 25px;
+    margin-top: -25px;
+    padding-left: 30px;
+}
+
 /* swim coach */
 .swim-coach h2 {
     padding-top: 10px;
@@ -66,6 +72,12 @@ h1 {
 .swim-coach h3 {
     font-size: 30px;
     margin-top: -25px;
+}
+
+.swim-coach .description {
+    font-size: 25px;
+    margin-top: -25px;
+    padding-left: 30px;
 }
 
 /* lifeguard  */
