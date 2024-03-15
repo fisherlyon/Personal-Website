@@ -41,9 +41,13 @@ h1 {
 }
 
 .trio-mentor .description {
-    font-size: 25px;
+    font-size: 23px;
     margin-top: -25px;
     padding-left: 30px;
+}
+
+.trio-mentor .description li {
+    padding-top: 3px;
 }
 
 /* swim instructor */
@@ -58,9 +62,13 @@ h1 {
 }
 
 .swim-instruct .description {
-    font-size: 25px;
+    font-size: 23px;
     margin-top: -25px;
     padding-left: 30px;
+}
+
+.swim-instruct .description li {
+    padding-top: 3px;
 }
 
 /* swim coach */
@@ -75,9 +83,13 @@ h1 {
 }
 
 .swim-coach .description {
-    font-size: 25px;
+    font-size: 23px;
     margin-top: -25px;
     padding-left: 30px;
+}
+
+.swim-coach .description li {
+    padding-top: 3px;
 }
 
 /* lifeguard  */
@@ -89,4 +101,14 @@ h1 {
 .lifeguard h3 {
     font-size: 30px;
     margin-top: -25px;
+}
+
+.lifeguard .description {
+    font-size: 23px;
+    margin-top: -25px;
+    padding-left: 30px;
+}
+
+.lifeguard .description li {
+    padding-top: 3px;
 }
