@@ -60,7 +60,6 @@ h1 {
 }
 
 .aboutme-col-2 p a {
-    font-weight: bold;
     color: inherit;
     transition: .5s;
 }

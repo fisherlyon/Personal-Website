@@ -29,86 +29,22 @@ h1 {
     margin-top: -50px;
 }
 
-/* trio links peer mentor */
-.trio-mentor h2 {
+h2 {
     padding-top: 10px;
-    font-size: 45px;
+    font-size: 40px;
 }
 
-.trio-mentor h3 {
+h3 {
     font-size: 30px;
     margin-top: -25px;
 }
 
-.trio-mentor .description {
+.description {
     font-size: 23px;
     margin-top: -25px;
     padding-left: 30px;
 }
 
-.trio-mentor .description li {
-    padding-top: 10px;
-}
-
-/* swim instructor */
-.swim-instruct h2 {
-    padding-top: 10px;
-    font-size: 45px;
-}
-
-.swim-instruct h3 {
-    font-size: 30px;
-    margin-top: -25px;
-}
-
-.swim-instruct .description {
-    font-size: 23px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.swim-instruct .description li {
-    padding-top: 10px;
-}
-
-/* swim coach */
-.swim-coach h2 {
-    padding-top: 10px;
-    font-size: 45px;
-}
-
-.swim-coach h3 {
-    font-size: 30px;
-    margin-top: -25px;
-}
-
-.swim-coach .description {
-    font-size: 23px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.swim-coach .description li {
-    padding-top: 10px;
-}
-
-/* lifeguard  */
-.lifeguard h2 {
-    padding-top: 10px;
-    font-size: 45px;
-}
-
-.lifeguard h3 {
-    font-size: 30px;
-    margin-top: -25px;
-}
-
-.lifeguard .description {
-    font-size: 23px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.lifeguard .description li {
+.description li {
     padding-top: 10px;
 }

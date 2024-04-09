@@ -29,154 +29,27 @@ h1 {
     margin-top: -50px;
 }
 
-/* third year */
-.third-year .fall-2023 h2 {
+h2 {
     padding-top: 10px;
-    font-size: 45px;
+    font-size: 40px;
 }
 
-.third-year .fall-2023 h3 {
+.top h3 {
     font-size: 30px;
     margin-top: -25px;
 }
 
-.third-year .fall-2023 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.third-year .fall-2023 .courses li {
-    padding-top: 10px;
-}
-
-.third-year .winter-2024 h3 {
+.rest h3 {
     font-size: 30px;
     margin-top: -5px;
 }
 
-.third-year .winter-2024 .courses {
-    font-size: 25px;
+.courses {
+    font-size: 23px;
     margin-top: -25px;
     padding-left: 30px;
 }
 
-.third-year .winter-2024 .courses li {
-    padding-top: 10px;
-}
-
-.third-year .spring-2024 h3 {
-    font-size: 30px;
-    margin-top: -5px;
-}
-
-.third-year .spring-2024 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.third-year .spring-2024 .courses li {
-    padding-top: 10px;
-}
-
-/* second year */
-.second-year .fall-2022 h2 {
-    padding-top: 10px;
-    font-size: 45px;
-}
-
-.second-year .fall-2022 h3 {
-    font-size: 30px;
-    margin-top: -25px;
-}
-
-.second-year .fall-2022 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.second-year .fall-2022 .courses li {
-    padding-top: 10px;
-}
-
-.second-year .winter-2023 h3 {
-    font-size: 30px;
-    margin-top: -5px;
-}
-
-.second-year .winter-2023 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.second-year .winter-2023 .courses li {
-    padding-top: 10px;
-}
-
-.second-year .spring-2023 h3 {
-    font-size: 30px;
-    margin-top: -5px;
-}
-
-.second-year .spring-2023 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.second-year .spring-2023 .courses li {
-    padding-top: 10px;
-}
-
-/* first year */
-.first-year .fall-2021 h2 {
-    font-size: 45px;
-}
-
-.first-year .fall-2021 h3 {
-    font-size: 30px;
-    margin-top: -25px;
-}
-
-.first-year .fall-2021 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.first-year .fall-2021 .courses li {
-    padding-top: 10px;
-}
-
-.first-year .winter-2022 h3 {
-    font-size: 30px;
-    margin-top: -5px;
-}
-
-.first-year .winter-2022 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.first-year .winter-2022 .courses li {
-    padding-top: 10px;
-}
-
-.first-year .spring-2022 h3 {
-    font-size: 30px;
-    margin-top: -5px;
-}
-
-.first-year .spring-2022 .courses {
-    font-size: 25px;
-    margin-top: -25px;
-    padding-left: 30px;
-}
-
-.first-year .spring-2022 .courses li {
+.courses li {
     padding-top: 10px;
 }
