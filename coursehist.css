@@ -12,7 +12,7 @@ p {
     text-align: right;
 }
 
-p a {
+p .home {
     font-size: 30px;
     color: inherit;
     transition: .5s;

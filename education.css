@@ -1,4 +1,4 @@
-/* highschool.css */
+/* education.css */
 
 body {
     background-color: #1f1f1f;
@@ -12,7 +12,7 @@ p {
     text-align: right;
 }
 
-p a {
+p .home {
     font-size: 30px;
     color: inherit;
     transition: .5s;

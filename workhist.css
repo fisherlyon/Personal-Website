@@ -12,7 +12,7 @@ p {
     text-align: right;
 }
 
-p a {
+p .home {
     font-size: 30px;
     color: inherit;
     transition: .5s;
@@ -47,7 +47,7 @@ h1 {
 }
 
 .trio-mentor .description li {
-    padding-top: 3px;
+    padding-top: 10px;
 }
 
 /* swim instructor */
@@ -68,7 +68,7 @@ h1 {
 }
 
 .swim-instruct .description li {
-    padding-top: 3px;
+    padding-top: 10px;
 }
 
 /* swim coach */
@@ -89,7 +89,7 @@ h1 {
 }
 
 .swim-coach .description li {
-    padding-top: 3px;
+    padding-top: 10px;
 }
 
 /* lifeguard  */
@@ -110,5 +110,5 @@ h1 {
 }
 
 .lifeguard .description li {
-    padding-top: 3px;
+    padding-top: 10px;
 }

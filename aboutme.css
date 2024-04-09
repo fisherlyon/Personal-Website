@@ -12,7 +12,7 @@ p {
     text-align: right;
 }
 
-p a {
+p .home {
     font-size: 30px;
     color: inherit;
     transition: .5s;
@@ -36,7 +36,7 @@ h1 {
 }
 
 .aboutme-col-1 {
-	flex-basis: 35%;
+	flex-basis: 30%;
 }
 
 .aboutme-col-1 img {
@@ -47,14 +47,25 @@ h1 {
 }
 
 .aboutme-col-2 {
-	flex-basis: 65%;
+	flex-basis: 70%;
 }
 
 .aboutme-col-2 h1 {
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .aboutme-col-2 p {
     text-align: left;
     font-size: 20px;
+}
+
+.aboutme-col-2 p a {
+    font-weight: bold;
+    color: inherit;
+    transition: .5s;
+}
+
+.aboutme-col-2 p a:hover {
+    color: #ffffff;
+    text-shadow: 0 0 5px #ffffff;
 }
